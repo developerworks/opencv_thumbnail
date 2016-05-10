@@ -82,4 +82,3 @@ class OpencvThumbnail():
             avatar_image = self.fill(image_buf, (160, 160))
             corp_sizes.append(avatar_image)
         return corp_sizes
-
